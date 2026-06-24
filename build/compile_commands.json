@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/build",
+  "command": "/usr/bin/clang++  -I/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/include -I/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src -I/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src/cpp -isystem /opt/homebrew/Cellar/opencv/4.13.0_10/include/opencv4 -g -std=gnu++20 -arch arm64 -o CMakeFiles/WordHuntAI.dir/src/cpp/DAT.cpp.o -c /Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src/cpp/DAT.cpp",
+  "file": "/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src/cpp/DAT.cpp",
+  "output": "CMakeFiles/WordHuntAI.dir/src/cpp/DAT.cpp.o"
+},
+{
+  "directory": "/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/build",
+  "command": "/usr/bin/clang++  -I/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/include -I/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src -I/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src/cpp -isystem /opt/homebrew/Cellar/opencv/4.13.0_10/include/opencv4 -g -std=gnu++20 -arch arm64 -o CMakeFiles/WordHuntAI.dir/src/cpp/cnn.cpp.o -c /Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src/cpp/cnn.cpp",
+  "file": "/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src/cpp/cnn.cpp",
+  "output": "CMakeFiles/WordHuntAI.dir/src/cpp/cnn.cpp.o"
+},
+{
+  "directory": "/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/build",
+  "command": "/usr/bin/clang++  -I/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/include -I/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src -I/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src/cpp -isystem /opt/homebrew/Cellar/opencv/4.13.0_10/include/opencv4 -g -std=gnu++20 -arch arm64 -o CMakeFiles/WordHuntAI.dir/src/cpp/cv.cpp.o -c /Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src/cpp/cv.cpp",
+  "file": "/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src/cpp/cv.cpp",
+  "output": "CMakeFiles/WordHuntAI.dir/src/cpp/cv.cpp.o"
+},
+{
+  "directory": "/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/build",
+  "command": "/usr/bin/clang++  -I/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/include -I/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src -I/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src/cpp -isystem /opt/homebrew/Cellar/opencv/4.13.0_10/include/opencv4 -g -std=gnu++20 -arch arm64 -o CMakeFiles/WordHuntAI.dir/src/cpp/engine.cpp.o -c /Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src/cpp/engine.cpp",
+  "file": "/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src/cpp/engine.cpp",
+  "output": "CMakeFiles/WordHuntAI.dir/src/cpp/engine.cpp.o"
+},
+{
+  "directory": "/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/build",
+  "command": "/usr/bin/clang++  -I/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/include -I/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src -I/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src/cpp -isystem /opt/homebrew/Cellar/opencv/4.13.0_10/include/opencv4 -g -std=gnu++20 -arch arm64 -o CMakeFiles/WordHuntAI.dir/src/cpp/filterWords.cpp.o -c /Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src/cpp/filterWords.cpp",
+  "file": "/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src/cpp/filterWords.cpp",
+  "output": "CMakeFiles/WordHuntAI.dir/src/cpp/filterWords.cpp.o"
+},
+{
+  "directory": "/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/build",
+  "command": "/usr/bin/clang++  -I/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/include -I/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src -I/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src/cpp -isystem /opt/homebrew/Cellar/opencv/4.13.0_10/include/opencv4 -g -std=gnu++20 -arch arm64 -o CMakeFiles/WordHuntAI.dir/src/cpp/main.cpp.o -c /Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src/cpp/main.cpp",
+  "file": "/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src/cpp/main.cpp",
+  "output": "CMakeFiles/WordHuntAI.dir/src/cpp/main.cpp.o"
+}
+]

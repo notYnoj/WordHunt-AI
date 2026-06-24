@@ -1,0 +1,3 @@
+/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/build/CMakeFiles/WordHuntAI.dir
+/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/build/CMakeFiles/edit_cache.dir
+/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/build/CMakeFiles/rebuild_cache.dir
