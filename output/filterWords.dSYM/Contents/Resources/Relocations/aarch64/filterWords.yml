@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ylracisbest/Desktop/quantProjects/WordHuntAI/src/cpp/output/filterWords'
+relocations:     []
+...
