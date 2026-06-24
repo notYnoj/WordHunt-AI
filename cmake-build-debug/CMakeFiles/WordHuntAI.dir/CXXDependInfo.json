@@ -1,0 +1,80 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/Ynoj/Desktop/Portfolio-Dev-Projects-/WordHuntAI/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/Ynoj/Desktop/Portfolio-Dev-Projects-/WordHuntAI",
+	"dir-top-bld" : "C:/Users/Ynoj/Desktop/Portfolio-Dev-Projects-/WordHuntAI/cmake-build-debug",
+	"dir-top-src" : "C:/Users/Ynoj/Desktop/Portfolio-Dev-Projects-/WordHuntAI",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\Users\\Ynoj\\Desktop\\Portfolio-Dev-Projects-\\WordHuntAI\\include",
+		"C:\\Users\\Ynoj\\Desktop\\Portfolio-Dev-Projects-\\WordHuntAI\\src",
+		"C:\\Users\\Ynoj\\Desktop\\Portfolio-Dev-Projects-\\WordHuntAI\\src\\cpp",
+		"C:\\Users\\Ynoj\\Downloads\\opencv\\build",
+		"C:\\Users\\Ynoj\\Downloads\\opencv\\sources\\include",
+		"C:\\Users\\Ynoj\\Downloads\\opencv\\sources\\modules\\core\\include",
+		"C:\\Users\\Ynoj\\Downloads\\opencv\\sources\\modules\\flann\\include",
+		"C:\\Users\\Ynoj\\Downloads\\opencv\\sources\\modules\\imgproc\\include",
+		"C:\\Users\\Ynoj\\Downloads\\opencv\\sources\\modules\\ml\\include",
+		"C:\\Users\\Ynoj\\Downloads\\opencv\\sources\\modules\\photo\\include",
+		"C:\\Users\\Ynoj\\Downloads\\opencv\\sources\\modules\\dnn\\include",
+		"C:\\Users\\Ynoj\\Downloads\\opencv\\sources\\modules\\features2d\\include",
+		"C:\\Users\\Ynoj\\Downloads\\opencv\\sources\\modules\\imgcodecs\\include",
+		"C:\\Users\\Ynoj\\Downloads\\opencv\\sources\\modules\\videoio\\include",
+		"C:\\Users\\Ynoj\\Downloads\\opencv\\sources\\modules\\calib3d\\include",
+		"C:\\Users\\Ynoj\\Downloads\\opencv\\sources\\modules\\highgui\\include",
+		"C:\\Users\\Ynoj\\Downloads\\opencv\\sources\\modules\\objdetect\\include",
+		"C:\\Users\\Ynoj\\Downloads\\opencv\\sources\\modules\\stitching\\include",
+		"C:\\Users\\Ynoj\\Downloads\\opencv\\sources\\modules\\ts\\include",
+		"C:\\Users\\Ynoj\\Downloads\\opencv\\sources\\modules\\video\\include",
+		"C:\\Users\\Ynoj\\Downloads\\opencv\\sources\\modules\\gapi\\include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/Ynoj/Desktop/Portfolio-Dev-Projects-/WordHuntAI/cmake-build-debug/CMakeFiles/WordHuntAI.dir",
+	"sources" : 
+	{
+		"CMakeFiles/WordHuntAI.dir/include/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Ynoj/Desktop/Portfolio-Dev-Projects-/WordHuntAI/include/main.cpp"
+		},
+		"CMakeFiles/WordHuntAI.dir/src/cpp/DAT.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Ynoj/Desktop/Portfolio-Dev-Projects-/WordHuntAI/src/cpp/DAT.cpp"
+		},
+		"CMakeFiles/WordHuntAI.dir/src/cpp/cnn.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Ynoj/Desktop/Portfolio-Dev-Projects-/WordHuntAI/src/cpp/cnn.cpp"
+		},
+		"CMakeFiles/WordHuntAI.dir/src/cpp/cv.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Ynoj/Desktop/Portfolio-Dev-Projects-/WordHuntAI/src/cpp/cv.cpp"
+		},
+		"CMakeFiles/WordHuntAI.dir/src/cpp/engine.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Ynoj/Desktop/Portfolio-Dev-Projects-/WordHuntAI/src/cpp/engine.cpp"
+		},
+		"CMakeFiles/WordHuntAI.dir/src/cpp/filterWords.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Ynoj/Desktop/Portfolio-Dev-Projects-/WordHuntAI/src/cpp/filterWords.cpp"
+		},
+		"CMakeFiles/WordHuntAI.dir/src/cpp/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Ynoj/Desktop/Portfolio-Dev-Projects-/WordHuntAI/src/cpp/main.cpp"
+		}
+	}
+}

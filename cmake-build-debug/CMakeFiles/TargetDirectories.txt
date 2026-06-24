@@ -1,0 +1,3 @@
+C:/Users/Ynoj/Desktop/Portfolio-Dev-Projects-/WordHuntAI/cmake-build-debug/CMakeFiles/WordHuntAI.dir
+C:/Users/Ynoj/Desktop/Portfolio-Dev-Projects-/WordHuntAI/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ynoj/Desktop/Portfolio-Dev-Projects-/WordHuntAI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
